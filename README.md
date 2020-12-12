@@ -1,2 +1,2 @@
 # emoji-interpreter
-Created with CodeSandbox
+Insert an emoji to know its meaning.
