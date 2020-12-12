@@ -1,2 +1,2 @@
 # emoji-interpreter
-Insert an emoji to know its meaning.
+Made with ReactJS. Insert an emoji to know its meaning.
